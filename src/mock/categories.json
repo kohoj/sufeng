@@ -1,0 +1,135 @@
+[
+  {
+    "categoryId": 543,
+    "categoryLevel": 1,
+    "categoryName": "1",
+    "secondLevelCategoryVOS": [
+      {
+        "categoryId": 549,
+        "parentId": 543,
+        "categoryLevel": 2,
+        "categoryName": "1.1",
+        "thirdLevelCategoryVOS": [
+          {
+            "categoryId": 555,
+            "categoryLevel": 3,
+            "categoryName": "1.1.1"
+          }
+        ]
+      },
+      {
+        "categoryId": 546,
+        "parentId": 543,
+        "categoryLevel": 2,
+        "categoryName": "1.2",
+        "thirdLevelCategoryVOS": [
+          {
+            "categoryId": 547,
+            "categoryLevel": 3,
+            "categoryName": "1.2.1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": 301,
+    "categoryLevel": 1,
+    "categoryName": "2",
+    "secondLevelCategoryVOS": [
+      {
+        "categoryId": 302,
+        "parentId": 301,
+        "categoryLevel": 2,
+        "categoryName": "2.1",
+        "thirdLevelCategoryVOS": [
+          {
+            "categoryId": 444,
+            "categoryLevel": 3,
+            "categoryName": "2.1.1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": 402,
+    "categoryLevel": 1,
+    "categoryName": "3",
+    "secondLevelCategoryVOS": [
+      {
+        "categoryId": 403,
+        "parentId": 402,
+        "categoryLevel": 2,
+        "categoryName": "3.1",
+        "thirdLevelCategoryVOS": [
+          {
+            "categoryId": 404,
+            "categoryLevel": 3,
+            "categoryName": "3.1.1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": 449,
+    "categoryLevel": 1,
+    "categoryName": "4",
+    "secondLevelCategoryVOS": [
+      {
+        "categoryId": 450,
+        "parentId": 449,
+        "categoryLevel": 2,
+        "categoryName": "4.1",
+        "thirdLevelCategoryVOS": [
+          {
+            "categoryId": 451,
+            "categoryLevel": 3,
+            "categoryName": "4.1.1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": 395,
+    "categoryLevel": 1,
+    "categoryName": "5",
+    "secondLevelCategoryVOS": [
+      {
+        "categoryId": 401,
+        "parentId": 395,
+        "categoryLevel": 2,
+        "categoryName": "5.1",
+        "thirdLevelCategoryVOS": [
+          {
+            "categoryId": 432,
+            "categoryLevel": 3,
+            "categoryName": "5.1.1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": 442,
+    "categoryLevel": 1,
+    "categoryName": "6",
+    "secondLevelCategoryVOS": [
+      {
+        "categoryId": 462,
+        "parentId": 442,
+        "categoryLevel": 2,
+        "categoryName": "6.1",
+        "thirdLevelCategoryVOS": [
+          {
+            "categoryId": 463,
+            "categoryLevel": 3,
+            "categoryName": "6.1.1"
+          }
+        ]
+      }
+    ]
+  }
+]

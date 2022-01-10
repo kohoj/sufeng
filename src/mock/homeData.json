@@ -1,0 +1,182 @@
+{
+    "carousels": [
+      {
+        "carouselUrl": "https://www.hualigs.cn/image/61db7f660c1fe.jpg",
+        "redirectUrl": "https://m.tb.cn/h.fkLVMVb?sm=7ead57"
+      },
+      {
+        "carouselUrl": "https://www.hualigs.cn/image/61db7f663c87a.jpg",
+        "redirectUrl": "https://m.tb.cn/h.fjJcgdg?sm=b6bc2e"
+      },
+      {
+        "carouselUrl": "https://www.hualigs.cn/image/61db7f66105b2.jpg",
+        "redirectUrl": "https://m.tb.cn/h.fkLfUCP?sm=c2a606"
+      },
+      {
+        "carouselUrl": "https://www.hualigs.cn/image/61db7f65e2397.jpg",
+        "redirectUrl": "https://m.tb.cn/h.f9Khueq?sm=55b9d0"
+      },
+      {
+        "carouselUrl": "https://www.hualigs.cn/image/61db7f6623d51.jpg",
+        "redirectUrl": "https://m.tb.cn/h.fjJcrKG?sm=d54431"
+      }
+    ],
+    "recommendGoodses": [
+      {
+        "goodsId": 10188,
+        "goodsName": "【作者不详】",
+        "goodsIntro": "6人/日式/推理",
+        "goodsCoverImg": "https://www.hualigs.cn/image/61db7b58146fb.jpg",
+        "sellingPrice": 499,
+        "tag": ""
+      },
+      {
+        "goodsId": 11006,
+        "goodsName": "【马丁内斯死在惊奇馆】",
+        "goodsIntro": "6人/还原/推理",
+        "goodsCoverImg": "https://www.hualigs.cn/image/61db7b580fb50.jpg",
+        "sellingPrice": 508,
+        "tag": ""
+      },
+      {
+        "goodsId": 10233,
+        "goodsName": "【金陵有座东君书院】",
+        "goodsIntro": "6人/古风/欢乐",
+        "goodsCoverImg": "https://www.hualigs.cn/image/61db7b58123d6.jpg",
+        "sellingPrice": 534,
+        "tag": ""
+      },
+      {
+        "goodsId": 10154,
+        "goodsName": "【请将我深埋】",
+        "goodsIntro": "6人/日式/还原",
+        "goodsCoverImg": "https://www.hualigs.cn/image/61db7b5838383.jpg",
+        "sellingPrice": 478,
+        "tag": ""
+      },
+      {
+        "goodsId": 10894,
+        "goodsName": "【鲸鱼马戏团】",
+        "goodsIntro": "6人/欢乐/情感",
+        "goodsCoverImg": "https://www.hualigs.cn/image/61db7b5811fec.jpg",
+        "sellingPrice": 539,
+        "tag": ""
+      },
+      {
+        "goodsId": 10254,
+        "goodsName": "【黑桃A】",
+        "goodsIntro": "7人/欢乐/机制",
+        "goodsCoverImg": "https://www.hualigs.cn/image/61db7b5808787.jpg",
+        "sellingPrice": 538,
+        "tag": ""
+      },
+      {
+        "goodsId": 10147,
+        "goodsName": "【病娇男孩的精分日记】",
+        "goodsIntro": "7人/硬核/恐怖",
+        "goodsCoverImg": "https://www.hualigs.cn/image/61db7b581a5e0.jpg",
+        "sellingPrice": 478,
+        "tag": ""
+      },
+      {
+        "goodsId": 11001,
+        "goodsName": "【坏小孩】",
+        "goodsIntro": "6人/推理/还原",
+        "goodsCoverImg": "https://www.hualigs.cn/image/61db7b582531a.jpg",
+        "sellingPrice": 1998,
+        "tag": ""
+      },
+      {
+        "goodsId": 10226,
+        "goodsName": "【天才在左，我在右】",
+        "goodsIntro": "7人/推理/还原",
+        "goodsCoverImg": "https://www.hualigs.cn/image/61db7b580b6d8.jpg",
+        "sellingPrice": 538,
+        "tag": ""
+      },
+      {
+        "goodsId": 10158,
+        "goodsName": "【有间客栈】",
+        "goodsIntro": "6人/欢乐/阵营",
+        "goodsCoverImg": "https://www.hualigs.cn/image/61db7b580b790.jpg",
+        "sellingPrice": 478,
+        "tag": ""
+      }
+    ],
+    "hotGoodses": [
+      {
+        "goodsId": 10210,
+        "goodsName": "【联名款】MANSLY口红套装红鸾心动口红礼盒中国风开运红情...",
+        "goodsIntro": "新蜂精选",
+        "goodsCoverImg": "/goods-img/f128ad98-fe4d-4264-96e3-6393b6cc98f1.jpg",
+        "sellingPrice": 195,
+        "tag": ""
+      },
+      {
+        "goodsId": 11009,
+        "goodsName": "古风",
+        "goodsIntro": "回眸一笑百媚生",
+        "goodsCoverImg": "http://backend-api-02.newbee.ltd/upload/20210922_18134899.jpeg",
+        "sellingPrice": 30,
+        "tag": "古装"
+      },
+      {
+        "goodsId": 11003,
+        "goodsName": "1",
+        "goodsIntro": "11111",
+        "goodsCoverImg": "http://backend-api-02.newbee.ltd/upload/20210916_14342364.png",
+        "sellingPrice": 3333,
+        "tag": "111"
+      },
+      {
+        "goodsId": 11005,
+        "goodsName": "qw",
+        "goodsIntro": "qw",
+        "goodsCoverImg": "http://backend-api-02.newbee.ltd/upload/20210917_11332958.png",
+        "sellingPrice": 12,
+        "tag": "12"
+      }
+    ],
+    "newGoodses": [
+      {
+        "goodsId": 10019,
+        "goodsName": "无印良品（MUJI） 聚丙烯化妆盒 1/2",
+        "goodsIntro": "半透明约150x220x86mm",
+        "goodsCoverImg": "/goods-img/f6832ed7-cb01-48ab-987f-cd437b21be80.jpg",
+        "sellingPrice": 30,
+        "tag": ""
+      },
+      {
+        "goodsId": 10906,
+        "goodsName": "Apple iPhone12 Pro (A2408) 128...",
+        "goodsIntro": "A14仿生芯片，6.1英寸超视网膜XDR显示...",
+        "goodsCoverImg": "https://newbee-mall.oss-cn-beijing.aliyuncs.com/images/iphone-12-pro-blue-hero.png",
+        "sellingPrice": 8499,
+        "tag": "自我再飞跃"
+      },
+      {
+        "goodsId": 11013,
+        "goodsName": "11",
+        "goodsIntro": "qq",
+        "goodsCoverImg": "http://backend-api-02.newbee.ltd/upload/20210923_14525844.jpg",
+        "sellingPrice": 1,
+        "tag": "1"
+      },
+      {
+        "goodsId": 11006,
+        "goodsName": "11",
+        "goodsIntro": "11",
+        "goodsCoverImg": "http://backend-api-02.newbee.ltd/upload/20210918_11060015.png",
+        "sellingPrice": 11,
+        "tag": "11"
+      },
+      {
+        "goodsId": 10366,
+        "goodsName": "【二手9成新】Apple iPhone XR 苹果xr",
+        "goodsIntro": "二手手机双卡双待 蓝色 128G 全网通",
+        "goodsCoverImg": "/goods-img/3993feaa-0365-4d7e-9cc5-dcf583243ca3.jpg",
+        "sellingPrice": 4399,
+        "tag": ""
+      }
+    ]
+  }
