@@ -3,11 +3,8 @@ import { Toast } from 'vant';
 import router from '../router';
 
 // 请求地址
-axios.defaults.baseURL = process.env.NODE_ENV == 'development' ? '//backend-api-02.newbee.ltd/api/v1' : '//backend-api-02.newbee.ltd/api/v1';
-// 跨域请求带cookie
+axios.defaults.baseURL = 'http://backend-api-01.newbee.ltd/api/v1'
 axios.defaults.withCredentials = true;
-// 请求超时
-axios.defaults.timeout = 5000;
 // 规定请求为异步的，为null则为同步
 axios.defaults.headers['X-Requested-With'] = 'XMLHttpRequest';
 // 通过Token实现用户登录

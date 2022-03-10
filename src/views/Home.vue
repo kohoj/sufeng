@@ -3,7 +3,7 @@
     <ProductList />
     <Swiper :list="swiperList" />
     <div class="icon-list">
-      <div v-for="(item,index) in iconList" :key="index" @click="tips">
+      <div v-for="(item, index) in iconList" :key="index" @click="tips">
         <svg class="icon" aria-hidden="true">
           <use :xlink:href="`#icon-${item.icon}`" />
         </svg>
